@@ -1,0 +1,18 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/felix/code/competitive-programming/Codeforces/1311A'
+relocations:
+  - { offset: 0x1083C, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x4F7BA, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offset: 0x10FA7, size: 0x8, addend: 0x0, symName: __ZNSt6vectorIiSaIiEEixEm, symObjAddr: 0x468, symBinAddr: 0x100000C14, symSize: 0x20 }
+  - { offset: 0x10FDB, size: 0x8, addend: 0x0, symName: __ZSt5floorIxEN9__gnu_cxx11__enable_ifIXsrSt12__is_integerIT_E7__valueEdE6__typeES3_, symObjAddr: 0x454, symBinAddr: 0x100000C00, symSize: 0x14 }
+  - { offset: 0x11010, size: 0x8, addend: 0x0, symName: __ZNKSt6vectorIiSaIiEEixEm, symObjAddr: 0x434, symBinAddr: 0x100000BE0, symSize: 0x20 }
+  - { offset: 0x11048, size: 0x8, addend: 0x0, symName: __ZNKSt6vectorIiSaIiEE4sizeEv, symObjAddr: 0x410, symBinAddr: 0x100000BBC, symSize: 0x24 }
+  - { offset: 0x11070, size: 0x8, addend: 0x0, symName: __ZNKSt6vectorIS_IiSaIiEESaIS1_EEixEm, symObjAddr: 0x3E6, symBinAddr: 0x100000B92, symSize: 0x2A }
+  - { offset: 0x110A8, size: 0x8, addend: 0x0, symName: __ZNKSt6vectorIS_IiSaIiEESaIS1_EE4sizeEv, symObjAddr: 0x3B8, symBinAddr: 0x100000B64, symSize: 0x2E }
+  - { offset: 0x110D3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x22B, symBinAddr: 0x1000009D7, symSize: 0x18D }
+  - { offset: 0x11152, size: 0x8, addend: 0x0, symName: __Z10printArraySt6vectorIiSaIiEEi, symObjAddr: 0x1AF, symBinAddr: 0x10000095B, symSize: 0x7C }
+  - { offset: 0x111A1, size: 0x8, addend: 0x0, symName: __Z4swapPiS_, symObjAddr: 0x182, symBinAddr: 0x10000092E, symSize: 0x2D }
+  - { offset: 0x111F4, size: 0x8, addend: 0x0, symName: __Z5powerxx, symObjAddr: 0x10D, symBinAddr: 0x1000008B9, symSize: 0x75 }
+  - { offset: 0x11242, size: 0x8, addend: 0x0, symName: __Z7displayRKSt6vectorIS_IiSaIiEESaIS1_EE, symObjAddr: 0x38, symBinAddr: 0x1000007E4, symSize: 0xD5 }
+  - { offset: 0x112B8, size: 0x8, addend: 0x0, symName: __Z3gcdxx, symObjAddr: 0x0, symBinAddr: 0x1000007AC, symSize: 0x38 }
+...

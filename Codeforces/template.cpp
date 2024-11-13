@@ -71,16 +71,10 @@ int main() {
     
     int t; cin >> t;
     fora(_, t) {
-        int a,b; cin >> a >> b;
-    	if (b == a) { cout << 0 << endl; continue; }
-	if (b > a) {
-		if ((b-a) % 2 == 0) cout << 2 << endl;
-		else cout << 1 << endl;
-	} else {
-		if ((a-b) % 2 == 0) cout << 1 << endl;
-        else cout << 2 << endl;
-	}
+        int n,m; cin >> n >> m;
     }
+
+
     return 0;
 }
 
